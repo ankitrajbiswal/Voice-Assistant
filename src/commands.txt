@@ -1,0 +1,9 @@
+open
+google
+youtube
+github
+facebook
+hackerrank
+gmail
+drive
+whatsapp

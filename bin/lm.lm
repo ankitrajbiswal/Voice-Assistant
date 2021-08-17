@@ -1,0 +1,61 @@
+Language model created by QuickLM on Sun Aug 15 09:49:57 EDT 2021
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 9 sentences and 11 words
+
+\data\
+ngram 1=11
+ngram 2=18
+ngram 3=9
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-1.7324 DRIVE -0.2218
+-1.7324 FACEBOOK -0.2218
+-1.7324 GITHUB -0.2218
+-1.7324 GMAIL -0.2218
+-1.7324 GOOGLE -0.2218
+-1.7324 HACKERRANK -0.2218
+-1.7324 OPEN -0.2218
+-1.7324 WHATSAPP -0.2218
+-1.7324 YOUTUBE -0.2218
+
+\2-grams:
+-1.2553 <s> DRIVE 0.0000
+-1.2553 <s> FACEBOOK 0.0000
+-1.2553 <s> GITHUB 0.0000
+-1.2553 <s> GMAIL 0.0000
+-1.2553 <s> GOOGLE 0.0000
+-1.2553 <s> HACKERRANK 0.0000
+-1.2553 <s> OPEN 0.0000
+-1.2553 <s> WHATSAPP 0.0000
+-1.2553 <s> YOUTUBE 0.0000
+-0.3010 DRIVE </s> -0.3010
+-0.3010 FACEBOOK </s> -0.3010
+-0.3010 GITHUB </s> -0.3010
+-0.3010 GMAIL </s> -0.3010
+-0.3010 GOOGLE </s> -0.3010
+-0.3010 HACKERRANK </s> -0.3010
+-0.3010 OPEN </s> -0.3010
+-0.3010 WHATSAPP </s> -0.3010
+-0.3010 YOUTUBE </s> -0.3010
+
+\3-grams:
+-0.3010 <s> DRIVE </s>
+-0.3010 <s> FACEBOOK </s>
+-0.3010 <s> GITHUB </s>
+-0.3010 <s> GMAIL </s>
+-0.3010 <s> GOOGLE </s>
+-0.3010 <s> HACKERRANK </s>
+-0.3010 <s> OPEN </s>
+-0.3010 <s> WHATSAPP </s>
+-0.3010 <s> YOUTUBE </s>
+
+\end\
