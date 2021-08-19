@@ -35,6 +35,7 @@ Some screenshots are given below:
 # Contributor
 Name : Ankit Raj Biswal
 Registration No. : 1941012238
+CSE-D
 College: Institute of Technical Education and Research 
 
 ## Rest You are Good to Go!!!  :metal:  :beers:
