@@ -13,7 +13,7 @@ To Use this asisstant some libraries are needed to be included in your Code Edit
 Sphinx Libraries are to be firstly imported in your packages.
 
 These libraries can be downloaded from the following link:
-https://drive.google.com/drive/folders/1WuYSLxHeQ4SXmD0vauXiBSFIS61xe0oI?usp=sharing
+  https://drive.google.com/drive/folders/1WuYSLxHeQ4SXmD0vauXiBSFIS61xe0oI?usp=sharing
 
 After importing this library, in your code, Use this entire folder in your code editor and run App.java in the editor.
 
@@ -26,4 +26,16 @@ Some screenshots are given below:
 3. After Speaking the websites name, you will see the screen how it will appear.
    (Example in this case, Website: Github)
  ![Pic 2](https://user-images.githubusercontent.com/53295960/130092411-524e7a43-ef8e-483d-93ef-096a35c5101d.png)
+ 
+ # Precautions
+ 1. The sphinx library should be imported properly.
+ 2. The dic and lm files should be placed properly in folders and locations should be given properly.
+ 
+
+# Contributor
+Name : Ankit Raj Biswal
+Registration No. : 1941012238
+College: Institute of Technical Education and Research 
+
+## Rest You are Good to Go!!!  :metal:  :beers:
 
