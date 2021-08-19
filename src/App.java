@@ -1,6 +1,6 @@
 
-import java.io.ObjectInputFilter.Config;
-import javax.naming.directory.SearchResult;
+//import java.io.ObjectInputFilter.Config;
+//import javax.naming.directory.SearchResult;
 import java.awt.Desktop;
 import java.net.URI;
 import edu.cmu.sphinx.api.Configuration;
