@@ -1,5 +1,29 @@
-1. Project completed - just upload remaining
+## Voice-Asisstant in JAVA
+This is a minor project which is based on Voice Asisstant using JAVA and Sphinx Library.
 
-2.sphinx4-data-1.0.0 jar file to be uploade using bash.
+# About
+Now a days, Amazon Alexa, Google Asisstant, Siri and Cortana are very famous. This project is just a small attempt to replicate the same concept. In this voice asisstant, user will give a voice commands for opening certain websites and these websites will be opened by the default web browser of the user.
 
-3.Readme.md to be created
+# Tech Stack
+I have coded this project using JAVA and Sphinx Library has been used for adding speech recognition function in the project.
+This project can also be created using any other programming languages such as Python, C,C++ etc.
+
+# Result and How to Use?
+To Use this asisstant some libraries are needed to be included in your Code Editor.
+Sphinx Libraries are to be firstly imported in your packages.
+
+These libraries can be downloaded from the following link:
+https://drive.google.com/drive/folders/1WuYSLxHeQ4SXmD0vauXiBSFIS61xe0oI?usp=sharing
+
+After importing this library, in your code, Use this entire folder in your code editor and run App.java in the editor.
+
+Some screenshots are given below:
+
+1. When you will run the program, this is how your terminal in Visual Studio Code will look like as it is shown in my screenshot.
+![pic 1](https://user-images.githubusercontent.com/53295960/130089228-b2ca2553-63e8-457e-abba-80b9c56619df.png)
+
+2. Then you are required to speak the website names given in Commands.txt.
+3. After Speaking the websites name, you will see the screen how it will appear.
+   (Example in this case, Website: Github)
+ ![Pic 2](https://user-images.githubusercontent.com/53295960/130092411-524e7a43-ef8e-483d-93ef-096a35c5101d.png)
+
