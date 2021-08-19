@@ -6,6 +6,11 @@ import java.net.URI;
 import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.LiveSpeechRecognizer;
 
+/**
+ * @author Ankit Raj Biswal
+ *
+ */
+
 public class App {
     
     public static void main(String[] args) throws Exception {
