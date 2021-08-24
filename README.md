@@ -1,5 +1,5 @@
-## Voice-Asisstant in JAVA
-This is a minor project which is based on Voice Asisstant using JAVA and Sphinx Library.
+## Voice-Assistant in JAVA
+This is a minor project which is based on Voice Assistant using JAVA and Sphinx Library.
 
 # About
 Now a days, Amazon Alexa, Google Asisstant, Siri and Cortana are very famous. This project is just a small attempt to replicate the same concept. In this voice asisstant, user will give a voice commands for opening certain websites and these websites will be opened by the default web browser of the user.
@@ -9,7 +9,7 @@ I have coded this project using JAVA and Sphinx Library has been used for adding
 This project can also be created using any other programming languages such as Python, C,C++ etc.
 
 # Result and How to Use?
-To Use this asisstant some libraries are needed to be included in your Code Editor.
+To Use this assistant some libraries are needed to be included in your Code Editor.
 Sphinx Libraries are to be firstly imported in your packages.
 
 These libraries can be downloaded from the following link:
