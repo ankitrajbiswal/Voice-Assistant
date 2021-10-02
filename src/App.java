@@ -75,6 +75,12 @@ public class App {
                     System.out.println("Opening: "+ result);
                     desk.browse(uri);
                 }
+                else if (result.toLowerCase().equals("instagram")){
+
+                    URI uri=new URI("https://www.instagram.com/");
+                    System.out.println("Opening: "+ result);
+                    desk.browse(uri);
+                }
             }
         } catch (Exception e) {
             //TODO: handle exception
